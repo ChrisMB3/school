@@ -1,3 +1,5 @@
+#Simple dice program that detects if the dice gets the value 1 and rolls it again.
+
 import random   #imports random number generator used for dice
 
 def RollTheDice(Rolls):     #function where the dice is rolled
