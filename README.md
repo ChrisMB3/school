@@ -1,2 +1,3 @@
 # school
-.py .ps1 .ps1
+
+# Python school projects
