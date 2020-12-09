@@ -1,3 +1,0 @@
-# school
-
-# Python school projects
